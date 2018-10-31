@@ -42,3 +42,6 @@ https://qiita.com/hkusu/items/159e0ff07441ae2ec1fa
 
 https://pc-karuma.net/mac-app-startup/
 
+## iTerm2でマウススクロールさせる
+
+https://qiita.com/kawakami-kazuyoshi/items/83af0614beba840979fe
