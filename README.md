@@ -31,3 +31,11 @@ iTerm2 > Preference > Prfiles > Colors > solarized Darkを指定。
 Caps  Lockをコントロールキーで置き換えする。
 
 システム環境設定 > キーボード > 修飾キー > Caps Lockキーをコントロールキーに変更
+
+## Google IME
+
+IMEはbrewでインストール済み。
+設定を行うのみ。
+https://qiita.com/hkusu/items/159e0ff07441ae2ec1fa
+
+
