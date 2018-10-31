@@ -2,7 +2,6 @@ brew cask install dragondrop
 brew cask install dropbox
 brew cask install iterm2
 brew cask install mysqlworkbench
-brew cask install xtrafinder
 brew cask install slack
 brew cask install caffeine
 brew cask install alfred
