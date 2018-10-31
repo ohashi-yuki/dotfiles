@@ -22,4 +22,6 @@ curlの方がおすすめです。
 
 iTerm2 > Preference > Prfiles > Colors > solarized Darkを指定。
 
+## Dock
 
+システム環境設定 > Dock > 画面上の位置 > 左
