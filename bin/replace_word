@@ -1,0 +1,10 @@
+#!/bin/bash
+# カレントディレクトリ以下のファイルを対象に、引数 targetをreplacedに置換する
+
+# 引数が足らなければ、エラーを返す
+if [ $# -ne 2 ]; then
+    echo 'Argument is need [target replaced].'
+    exit 1
+fi
+
+find . -type f -print | xargs perl -pi -e "s/$1/$2/g"
