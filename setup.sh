@@ -41,3 +41,5 @@ if [ `uname` = "Darwin" ]; then
 
     chsh -s /bin/zsh
 fi
+
+./recipe.sh
