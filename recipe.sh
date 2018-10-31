@@ -19,7 +19,10 @@ brew cask install google-japanese-ime
 brew cask install google-chrome
 brew cask install phpstorm
 brew cask install postman
+# Docker for Mac
+brew cask install docker
 brew install jq
+brew install mysql
 # https://github.com/mrowa44/emojify
 brew install emojify
 
