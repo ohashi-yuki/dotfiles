@@ -25,3 +25,9 @@ iTerm2 > Preference > Prfiles > Colors > solarized Darkを指定。
 ## Dock
 
 システム環境設定 > Dock > 画面上の位置 > 左
+
+## Caps Lock
+
+Caps  Lockをコントロールキーで置き換えする。
+
+システム環境設定 > キーボード > 修飾キー > Caps Lockキーをコントロールキーに変更
