@@ -59,7 +59,7 @@ ABS_PATH='%/'
 PROMPT=""
 PROMPT+="%(?.${fg[cyan]}$SUCCESS.${fg[red]}$FAIL) "
 PROMPT+="%{${fg[green]}%}$ABS_PATH%{${reset_color}%}
-[%n@%m] %# "
+[%n] %# "
 
 PROMPT2="[%n]> "
 
