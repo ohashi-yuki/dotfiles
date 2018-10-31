@@ -1,4 +1,3 @@
-brew cask install dragondrop
 brew cask install dropbox
 brew cask install iterm2
 brew cask install mysqlworkbench
@@ -19,6 +18,7 @@ brew cask install lastpass
 brew cask install google-japanese-ime
 brew cask install google-chrome
 brew cask install phpstorm
+brew cask install postman
 brew install jq
 # https://github.com/mrowa44/emojify
 brew install emojify
