@@ -38,4 +38,8 @@ IMEはbrewでインストール済み。
 設定を行うのみ。
 https://qiita.com/hkusu/items/159e0ff07441ae2ec1fa
 
+## ログイン時にアプリケーションを自動起動
+
+https://pc-karuma.net/mac-app-startup/
+
 
