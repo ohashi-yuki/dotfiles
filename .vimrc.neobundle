@@ -110,7 +110,7 @@ let g:neosnippet#snippets_directory='~/.vim/snippets'
     inoremap <expr><S-TAB> pumvisible() ? "\<Up>" : "\<S-TAB>"
     inoremap <expr><C-y> neocomplcache#close_popup()
     inoremap <expr><C-e> neocomplcache#cancel_popup()
-    inoremap <expr><CR> neocomplcache#smart_close_popup() . "\<CR>"
+    " inoremap <expr><CR> neocomplcache#smart_close_popup() . "\<CR>"
     let g:neocomplcache_dictionary_filetype_lists = {
         \ 'default' : '',
         \ 'php'     : $HOME . '/.vim/dict/php.dict',
