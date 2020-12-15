@@ -20,7 +20,7 @@ curlの方がおすすめです。
 
 ## solarized
 
-iTerm2 > Preference > Prfiles > Colors > solarized Darkを指定。
+iTerm2 > Preference > Profiles > Colors > solarized Darkを指定。
 
 ## Dock
 
