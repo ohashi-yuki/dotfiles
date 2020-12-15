@@ -32,6 +32,12 @@ Caps  Lockをコントロールキーで置き換えする。
 
 システム環境設定 > キーボード > 修飾キー > Caps Lockキーをコントロールキーに変更
 
+## キーの認識スピード
+
+システム環境設定 > キーボード > キーのリピート/リピート認識までの時間  
+
+速いと短いに設定する。
+
 ## Google IME
 
 IMEはbrewでインストール済み。  
@@ -45,3 +51,4 @@ https://pc-karuma.net/mac-app-startup/
 ## iTerm2でマウススクロールさせる
 
 https://qiita.com/kawakami-kazuyoshi/items/83af0614beba840979fe
+
