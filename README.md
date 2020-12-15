@@ -34,8 +34,8 @@ Caps  Lockをコントロールキーで置き換えする。
 
 ## Google IME
 
-IMEはbrewでインストール済み。
-設定を行うのみ。
+IMEはbrewでインストール済み。  
+設定を行うのみ。  
 https://qiita.com/hkusu/items/159e0ff07441ae2ec1fa
 
 ## ログイン時にアプリケーションを自動起動
