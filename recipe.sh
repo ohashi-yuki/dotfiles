@@ -6,8 +6,6 @@ brew cask install caffeine
 brew cask install alfred
 brew cask install evernote
 brew cask install dash
-brew cask install java
-brew cask install karabiner
 brew cask install hyperswitch
 brew cask install bettertouchtool
 brew cask install shiftit
